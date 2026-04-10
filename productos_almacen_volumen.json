@@ -1,0 +1,1373 @@
+{
+  "Estantería A": [
+    {
+      "nombre": "Chocolate Amargo Clásico",
+      "cantidad": 69,
+      "precio": 3.91
+    },
+    {
+      "nombre": "Salsa César Suave",
+      "cantidad": 58,
+      "precio": 2.12
+    },
+    {
+      "nombre": "Café Brasil Premium",
+      "cantidad": 102,
+      "precio": 8.64
+    },
+    {
+      "nombre": "Aceite de Oliva Ecológico Orgánico",
+      "cantidad": 32,
+      "precio": 11.68
+    },
+    {
+      "nombre": "Harina de Avena Extra",
+      "cantidad": 17,
+      "precio": 2.3
+    },
+    {
+      "nombre": "Aceitunas Rellenas",
+      "cantidad": 108,
+      "precio": 1.32
+    },
+    {
+      "nombre": "Mermelada de Naranja",
+      "cantidad": 53,
+      "precio": 2.22
+    },
+    {
+      "nombre": "Galletas Digestive",
+      "cantidad": 84,
+      "precio": 3.66
+    },
+    {
+      "nombre": "Frutos Secos Pistachos",
+      "cantidad": 95,
+      "precio": 3.42
+    },
+    {
+      "nombre": "Legumbres Garbanzos",
+      "cantidad": 15,
+      "precio": 3.77
+    },
+    {
+      "nombre": "Leche Entera",
+      "cantidad": 63,
+      "precio": 2.74
+    }
+  ],
+  "Estantería B": [
+    {
+      "nombre": "Aceitunas Gourmet Artesano",
+      "cantidad": 112,
+      "precio": 3.35
+    },
+    {
+      "nombre": "Té Verde Premium",
+      "cantidad": 108,
+      "precio": 2.92
+    },
+    {
+      "nombre": "Harina de Avena Intenso",
+      "cantidad": 117,
+      "precio": 3.7
+    },
+    {
+      "nombre": "Aceite de Oliva Suave",
+      "cantidad": 55,
+      "precio": 11.14
+    },
+    {
+      "nombre": "Legumbres Judías Negras Orgánico",
+      "cantidad": 36,
+      "precio": 3.43
+    },
+    {
+      "nombre": "Café Brasil Intenso",
+      "cantidad": 59,
+      "precio": 9.28
+    },
+    {
+      "nombre": "Mermelada de Naranja",
+      "cantidad": 22,
+      "precio": 3.43
+    },
+    {
+      "nombre": "Leche Entera",
+      "cantidad": 115,
+      "precio": 1.22
+    },
+    {
+      "nombre": "Cereales Copos de Avena",
+      "cantidad": 59,
+      "precio": 4.09
+    },
+    {
+      "nombre": "Frutos Secos Avellanas",
+      "cantidad": 64,
+      "precio": 6.17
+    },
+    {
+      "nombre": "Galletas Sin Azúcar",
+      "cantidad": 6,
+      "precio": 3.04
+    },
+    {
+      "nombre": "Pasta Integral",
+      "cantidad": 73,
+      "precio": 2.5
+    },
+    {
+      "nombre": "Salsa Barbacoa Extra",
+      "cantidad": 25,
+      "precio": 2.98
+    },
+    {
+      "nombre": "Arroz Redondo",
+      "cantidad": 102,
+      "precio": 1.71
+    },
+    {
+      "nombre": "Chocolate Amargo",
+      "cantidad": 43,
+      "precio": 4.87
+    }
+  ],
+  "Estantería C": [
+    {
+      "nombre": "Cereales Fibra",
+      "cantidad": 15,
+      "precio": 4.56
+    },
+    {
+      "nombre": "Aceite de Oliva Virgen Extra",
+      "cantidad": 73,
+      "precio": 10.24
+    },
+    {
+      "nombre": "Aceitunas Negras",
+      "cantidad": 75,
+      "precio": 1.66
+    },
+    {
+      "nombre": "Té Manzanilla",
+      "cantidad": 59,
+      "precio": 5.84
+    },
+    {
+      "nombre": "Frutos Secos Anacardos",
+      "cantidad": 93,
+      "precio": 4.21
+    },
+    {
+      "nombre": "Galletas Digestive",
+      "cantidad": 90,
+      "precio": 2.95
+    },
+    {
+      "nombre": "Leche de Avena",
+      "cantidad": 62,
+      "precio": 1.25
+    },
+    {
+      "nombre": "Chocolate Con Leche Premium",
+      "cantidad": 80,
+      "precio": 3.72
+    },
+    {
+      "nombre": "Café Brasil Natural",
+      "cantidad": 95,
+      "precio": 7.42
+    },
+    {
+      "nombre": "Legumbres Garbanzos Premium",
+      "cantidad": 115,
+      "precio": 2.19
+    },
+    {
+      "nombre": "Harina de Almendra Selecto",
+      "cantidad": 32,
+      "precio": 3.0
+    },
+    {
+      "nombre": "Arroz Salvaje",
+      "cantidad": 36,
+      "precio": 3.77
+    },
+    {
+      "nombre": "Pasta Fusilli Natural",
+      "cantidad": 89,
+      "precio": 1.86
+    },
+    {
+      "nombre": "Mermelada de Naranja",
+      "cantidad": 115,
+      "precio": 4.04
+    },
+    {
+      "nombre": "Salsa de Tomate Artesano",
+      "cantidad": 107,
+      "precio": 4.49
+    },
+    {
+      "nombre": "Aceite de Oliva Suave",
+      "cantidad": 62,
+      "precio": 5.55
+    },
+    {
+      "nombre": "Chocolate Con Leche Clásico",
+      "cantidad": 116,
+      "precio": 5.19
+    },
+    {
+      "nombre": "Aceite de Oliva Ecológico",
+      "cantidad": 114,
+      "precio": 8.63
+    }
+  ],
+  "Estantería D": [
+    {
+      "nombre": "Legumbres Judías Negras",
+      "cantidad": 26,
+      "precio": 2.34
+    },
+    {
+      "nombre": "Galletas María Selecto",
+      "cantidad": 41,
+      "precio": 2.27
+    },
+    {
+      "nombre": "Chocolate 85%",
+      "cantidad": 67,
+      "precio": 2.12
+    },
+    {
+      "nombre": "Mermelada de Arándanos Premium",
+      "cantidad": 79,
+      "precio": 4.06
+    },
+    {
+      "nombre": "Aceite de Oliva Virgen Extra",
+      "cantidad": 12,
+      "precio": 4.88
+    },
+    {
+      "nombre": "Aceitunas Partidas",
+      "cantidad": 114,
+      "precio": 2.69
+    },
+    {
+      "nombre": "Pasta Integral",
+      "cantidad": 15,
+      "precio": 2.7
+    },
+    {
+      "nombre": "Arroz Basmati",
+      "cantidad": 91,
+      "precio": 4.03
+    },
+    {
+      "nombre": "Leche de Avena Intenso",
+      "cantidad": 36,
+      "precio": 2.58
+    },
+    {
+      "nombre": "Salsa de Tomate",
+      "cantidad": 58,
+      "precio": 3.73
+    }
+  ],
+  "Estantería E": [
+    {
+      "nombre": "Té Verde Clásico",
+      "cantidad": 69,
+      "precio": 2.69
+    },
+    {
+      "nombre": "Café Descafeinado",
+      "cantidad": 117,
+      "precio": 4.71
+    },
+    {
+      "nombre": "Aceite de Oliva Intenso Suave",
+      "cantidad": 95,
+      "precio": 6.77
+    },
+    {
+      "nombre": "Legumbres Quinoa Suave",
+      "cantidad": 43,
+      "precio": 4.0
+    },
+    {
+      "nombre": "Leche Entera",
+      "cantidad": 22,
+      "precio": 1.67
+    },
+    {
+      "nombre": "Frutos Secos Almendras",
+      "cantidad": 24,
+      "precio": 4.63
+    },
+    {
+      "nombre": "Harina de Almendra Artesano",
+      "cantidad": 31,
+      "precio": 3.58
+    },
+    {
+      "nombre": "Pasta Macarrón",
+      "cantidad": 37,
+      "precio": 2.81
+    },
+    {
+      "nombre": "Mermelada de Fresa Extra",
+      "cantidad": 111,
+      "precio": 2.77
+    },
+    {
+      "nombre": "Salsa de Tomate Orgánico",
+      "cantidad": 86,
+      "precio": 4.93
+    },
+    {
+      "nombre": "Aceitunas Negras",
+      "cantidad": 75,
+      "precio": 3.18
+    },
+    {
+      "nombre": "Cereales Fibra Natural",
+      "cantidad": 118,
+      "precio": 4.42
+    },
+    {
+      "nombre": "Arroz Integral",
+      "cantidad": 111,
+      "precio": 2.36
+    },
+    {
+      "nombre": "Chocolate 85% Orgánico",
+      "cantidad": 10,
+      "precio": 2.73
+    },
+    {
+      "nombre": "Galletas de Avena",
+      "cantidad": 31,
+      "precio": 3.05
+    },
+    {
+      "nombre": "Arroz Basmati",
+      "cantidad": 76,
+      "precio": 4.11
+    },
+    {
+      "nombre": "Cereales Miel",
+      "cantidad": 100,
+      "precio": 2.54
+    },
+    {
+      "nombre": "Cereales Copos de Avena",
+      "cantidad": 107,
+      "precio": 4.84
+    }
+  ],
+  "Estantería F": [
+    {
+      "nombre": "Chocolate 70% Clásico",
+      "cantidad": 33,
+      "precio": 1.59
+    },
+    {
+      "nombre": "Aceitunas Negras",
+      "cantidad": 40,
+      "precio": 3.62
+    },
+    {
+      "nombre": "Salsa Barbacoa",
+      "cantidad": 70,
+      "precio": 2.78
+    },
+    {
+      "nombre": "Té Manzanilla Premium",
+      "cantidad": 19,
+      "precio": 5.45
+    },
+    {
+      "nombre": "Pasta Macarrón Integral",
+      "cantidad": 9,
+      "precio": 1.22
+    },
+    {
+      "nombre": "Aceite de Oliva Ecológico Artesano",
+      "cantidad": 60,
+      "precio": 9.05
+    },
+    {
+      "nombre": "Café Brasil Intenso",
+      "cantidad": 29,
+      "precio": 4.78
+    },
+    {
+      "nombre": "Harina de Maíz Suave",
+      "cantidad": 92,
+      "precio": 3.71
+    },
+    {
+      "nombre": "Legumbres Garbanzos",
+      "cantidad": 13,
+      "precio": 4.05
+    },
+    {
+      "nombre": "Frutos Secos Pistachos",
+      "cantidad": 89,
+      "precio": 8.09
+    },
+    {
+      "nombre": "Leche Desnatada",
+      "cantidad": 90,
+      "precio": 2.08
+    },
+    {
+      "nombre": "Cereales Miel",
+      "cantidad": 75,
+      "precio": 2.45
+    },
+    {
+      "nombre": "Galletas María",
+      "cantidad": 53,
+      "precio": 3.03
+    },
+    {
+      "nombre": "Mermelada de Melocotón",
+      "cantidad": 43,
+      "precio": 3.14
+    },
+    {
+      "nombre": "Arroz Basmati Clásico",
+      "cantidad": 60,
+      "precio": 3.77
+    },
+    {
+      "nombre": "Aceite de Oliva Selección",
+      "cantidad": 64,
+      "precio": 7.81
+    }
+  ],
+  "Estantería G": [
+    {
+      "nombre": "Galletas de Chocolate Clásico",
+      "cantidad": 65,
+      "precio": 2.83
+    },
+    {
+      "nombre": "Arroz Basmati",
+      "cantidad": 118,
+      "precio": 3.24
+    },
+    {
+      "nombre": "Frutos Secos Nueces",
+      "cantidad": 54,
+      "precio": 5.97
+    },
+    {
+      "nombre": "Salsa Pesto Premium",
+      "cantidad": 119,
+      "precio": 4.08
+    },
+    {
+      "nombre": "Aceitunas Verdes",
+      "cantidad": 33,
+      "precio": 1.69
+    },
+    {
+      "nombre": "Mermelada de Frambuesa",
+      "cantidad": 76,
+      "precio": 2.7
+    },
+    {
+      "nombre": "Café Molido",
+      "cantidad": 107,
+      "precio": 6.25
+    },
+    {
+      "nombre": "Té Manzanilla",
+      "cantidad": 81,
+      "precio": 2.93
+    },
+    {
+      "nombre": "Chocolate 70%",
+      "cantidad": 97,
+      "precio": 5.07
+    },
+    {
+      "nombre": "Cereales Miel",
+      "cantidad": 75,
+      "precio": 3.56
+    },
+    {
+      "nombre": "Legumbres Garbanzos",
+      "cantidad": 65,
+      "precio": 2.55
+    },
+    {
+      "nombre": "Harina Integral",
+      "cantidad": 40,
+      "precio": 3.89
+    },
+    {
+      "nombre": "Pasta Penne",
+      "cantidad": 35,
+      "precio": 1.55
+    }
+  ],
+  "Estantería H": [
+    {
+      "nombre": "Salsa Picante",
+      "cantidad": 95,
+      "precio": 2.09
+    },
+    {
+      "nombre": "Café Colombia",
+      "cantidad": 74,
+      "precio": 6.26
+    },
+    {
+      "nombre": "Aceite de Oliva Virgen Extra",
+      "cantidad": 54,
+      "precio": 11.29
+    },
+    {
+      "nombre": "Harina de Almendra",
+      "cantidad": 7,
+      "precio": 4.24
+    },
+    {
+      "nombre": "Té Manzanilla",
+      "cantidad": 5,
+      "precio": 5.74
+    },
+    {
+      "nombre": "Legumbres Alubias",
+      "cantidad": 114,
+      "precio": 3.87
+    },
+    {
+      "nombre": "Galletas María",
+      "cantidad": 99,
+      "precio": 2.64
+    },
+    {
+      "nombre": "Mermelada de Frambuesa",
+      "cantidad": 67,
+      "precio": 2.61
+    },
+    {
+      "nombre": "Arroz Jazmín",
+      "cantidad": 54,
+      "precio": 2.24
+    },
+    {
+      "nombre": "Pasta Fusilli",
+      "cantidad": 112,
+      "precio": 1.93
+    },
+    {
+      "nombre": "Cereales Copos de Avena",
+      "cantidad": 73,
+      "precio": 2.09
+    }
+  ],
+  "Estantería I": [
+    {
+      "nombre": "Cereales Chocolate",
+      "cantidad": 53,
+      "precio": 2.97
+    },
+    {
+      "nombre": "Leche de Avena Natural",
+      "cantidad": 65,
+      "precio": 0.96
+    },
+    {
+      "nombre": "Legumbres Quinoa Artesano",
+      "cantidad": 33,
+      "precio": 3.15
+    },
+    {
+      "nombre": "Chocolate Amargo",
+      "cantidad": 36,
+      "precio": 2.3
+    },
+    {
+      "nombre": "Mermelada de Fresa",
+      "cantidad": 35,
+      "precio": 2.35
+    },
+    {
+      "nombre": "Pasta Integral",
+      "cantidad": 32,
+      "precio": 1.93
+    },
+    {
+      "nombre": "Aceitunas Rellenas",
+      "cantidad": 26,
+      "precio": 2.9
+    },
+    {
+      "nombre": "Arroz Basmati",
+      "cantidad": 25,
+      "precio": 4.38
+    },
+    {
+      "nombre": "Frutos Secos Almendras",
+      "cantidad": 44,
+      "precio": 6.45
+    },
+    {
+      "nombre": "Salsa Picante",
+      "cantidad": 96,
+      "precio": 2.03
+    },
+    {
+      "nombre": "Galletas Sin Azúcar",
+      "cantidad": 85,
+      "precio": 1.73
+    },
+    {
+      "nombre": "Aceite de Oliva Intenso",
+      "cantidad": 81,
+      "precio": 10.54
+    },
+    {
+      "nombre": "Harina de Almendra",
+      "cantidad": 49,
+      "precio": 2.98
+    },
+    {
+      "nombre": "Té Rojo Artesano",
+      "cantidad": 6,
+      "precio": 5.32
+    },
+    {
+      "nombre": "Café Colombia Artesano",
+      "cantidad": 86,
+      "precio": 9.24
+    },
+    {
+      "nombre": "Té Chai",
+      "cantidad": 60,
+      "precio": 2.29
+    }
+  ],
+  "Estantería J": [
+    {
+      "nombre": "Legumbres Judías Negras Selecto",
+      "cantidad": 113,
+      "precio": 2.18
+    },
+    {
+      "nombre": "Café Colombia Integral",
+      "cantidad": 48,
+      "precio": 4.96
+    },
+    {
+      "nombre": "Cereales Fibra",
+      "cantidad": 40,
+      "precio": 3.95
+    },
+    {
+      "nombre": "Galletas Sin Azúcar",
+      "cantidad": 15,
+      "precio": 1.72
+    },
+    {
+      "nombre": "Arroz Jazmín",
+      "cantidad": 102,
+      "precio": 1.92
+    },
+    {
+      "nombre": "Leche de Avena",
+      "cantidad": 67,
+      "precio": 2.2
+    },
+    {
+      "nombre": "Pasta Integral Clásico",
+      "cantidad": 56,
+      "precio": 2.38
+    },
+    {
+      "nombre": "Harina de Avena",
+      "cantidad": 52,
+      "precio": 2.75
+    },
+    {
+      "nombre": "Aceitunas Gourmet Suave",
+      "cantidad": 47,
+      "precio": 2.19
+    },
+    {
+      "nombre": "Mermelada de Naranja Integral",
+      "cantidad": 34,
+      "precio": 2.34
+    },
+    {
+      "nombre": "Chocolate Con Leche Suave",
+      "cantidad": 102,
+      "precio": 4.26
+    },
+    {
+      "nombre": "Salsa Pesto Selecto",
+      "cantidad": 40,
+      "precio": 3.98
+    },
+    {
+      "nombre": "Té Manzanilla",
+      "cantidad": 17,
+      "precio": 5.25
+    },
+    {
+      "nombre": "Frutos Secos Pistachos Orgánico",
+      "cantidad": 43,
+      "precio": 3.08
+    },
+    {
+      "nombre": "Aceite de Oliva Selección Premium",
+      "cantidad": 11,
+      "precio": 8.65
+    },
+    {
+      "nombre": "Cereales Copos de Avena",
+      "cantidad": 101,
+      "precio": 3.72
+    },
+    {
+      "nombre": "Cereales Muesli",
+      "cantidad": 65,
+      "precio": 3.68
+    },
+    {
+      "nombre": "Legumbres Alubias Premium",
+      "cantidad": 37,
+      "precio": 4.02
+    }
+  ],
+  "Estantería K": [
+    {
+      "nombre": "Mermelada de Frambuesa Suave",
+      "cantidad": 53,
+      "precio": 3.26
+    },
+    {
+      "nombre": "Harina de Maíz Intenso",
+      "cantidad": 59,
+      "precio": 2.09
+    },
+    {
+      "nombre": "Leche de Almendra Natural",
+      "cantidad": 102,
+      "precio": 1.5
+    },
+    {
+      "nombre": "Pasta Spaghetti Natural",
+      "cantidad": 25,
+      "precio": 1.48
+    },
+    {
+      "nombre": "Arroz Salvaje Premium",
+      "cantidad": 57,
+      "precio": 2.63
+    },
+    {
+      "nombre": "Frutos Secos Anacardos",
+      "cantidad": 9,
+      "precio": 4.39
+    },
+    {
+      "nombre": "Chocolate Blanco",
+      "cantidad": 63,
+      "precio": 1.78
+    },
+    {
+      "nombre": "Aceitunas Negras",
+      "cantidad": 105,
+      "precio": 3.42
+    },
+    {
+      "nombre": "Cereales Fibra",
+      "cantidad": 30,
+      "precio": 3.49
+    },
+    {
+      "nombre": "Café Brasil Orgánico",
+      "cantidad": 39,
+      "precio": 8.79
+    },
+    {
+      "nombre": "Legumbres Lentejas Integral",
+      "cantidad": 81,
+      "precio": 3.45
+    },
+    {
+      "nombre": "Galletas Sin Azúcar",
+      "cantidad": 61,
+      "precio": 1.37
+    },
+    {
+      "nombre": "Aceite de Oliva Intenso",
+      "cantidad": 39,
+      "precio": 8.25
+    },
+    {
+      "nombre": "Té Chai",
+      "cantidad": 81,
+      "precio": 1.68
+    },
+    {
+      "nombre": "Salsa Picante",
+      "cantidad": 82,
+      "precio": 2.23
+    },
+    {
+      "nombre": "Cereales Muesli Intenso",
+      "cantidad": 80,
+      "precio": 5.33
+    },
+    {
+      "nombre": "Cereales Chocolate",
+      "cantidad": 102,
+      "precio": 4.65
+    }
+  ],
+  "Estantería L": [
+    {
+      "nombre": "Galletas Digestive",
+      "cantidad": 68,
+      "precio": 1.86
+    },
+    {
+      "nombre": "Legumbres Judías Negras",
+      "cantidad": 75,
+      "precio": 1.31
+    },
+    {
+      "nombre": "Arroz Basmati Artesano",
+      "cantidad": 19,
+      "precio": 4.4
+    },
+    {
+      "nombre": "Café Colombia",
+      "cantidad": 110,
+      "precio": 9.92
+    },
+    {
+      "nombre": "Aceitunas Gourmet",
+      "cantidad": 11,
+      "precio": 1.73
+    },
+    {
+      "nombre": "Cereales Chocolate",
+      "cantidad": 68,
+      "precio": 4.19
+    },
+    {
+      "nombre": "Pasta Integral Suave",
+      "cantidad": 21,
+      "precio": 2.86
+    },
+    {
+      "nombre": "Frutos Secos Avellanas",
+      "cantidad": 67,
+      "precio": 3.73
+    },
+    {
+      "nombre": "Chocolate 85%",
+      "cantidad": 95,
+      "precio": 2.13
+    },
+    {
+      "nombre": "Aceite de Oliva Selección Extra",
+      "cantidad": 16,
+      "precio": 6.19
+    },
+    {
+      "nombre": "Harina de Trigo",
+      "cantidad": 20,
+      "precio": 3.43
+    },
+    {
+      "nombre": "Té Negro",
+      "cantidad": 96,
+      "precio": 2.81
+    },
+    {
+      "nombre": "Mermelada de Arándanos",
+      "cantidad": 66,
+      "precio": 4.74
+    },
+    {
+      "nombre": "Salsa Pesto",
+      "cantidad": 23,
+      "precio": 2.72
+    },
+    {
+      "nombre": "Leche de Almendra",
+      "cantidad": 117,
+      "precio": 1.3
+    },
+    {
+      "nombre": "Harina de Trigo Extra",
+      "cantidad": 48,
+      "precio": 4.54
+    },
+    {
+      "nombre": "Aceitunas Gourmet Premium",
+      "cantidad": 41,
+      "precio": 3.23
+    }
+  ],
+  "Estantería M": [
+    {
+      "nombre": "Harina de Maíz Selecto",
+      "cantidad": 95,
+      "precio": 4.46
+    },
+    {
+      "nombre": "Aceitunas Partidas",
+      "cantidad": 89,
+      "precio": 3.42
+    },
+    {
+      "nombre": "Arroz Integral",
+      "cantidad": 9,
+      "precio": 1.53
+    },
+    {
+      "nombre": "Galletas Sin Azúcar Natural",
+      "cantidad": 116,
+      "precio": 3.54
+    },
+    {
+      "nombre": "Frutos Secos Almendras",
+      "cantidad": 63,
+      "precio": 3.09
+    },
+    {
+      "nombre": "Té Negro",
+      "cantidad": 88,
+      "precio": 5.86
+    },
+    {
+      "nombre": "Cereales Muesli",
+      "cantidad": 38,
+      "precio": 3.18
+    },
+    {
+      "nombre": "Pasta Fusilli",
+      "cantidad": 114,
+      "precio": 1.66
+    },
+    {
+      "nombre": "Aceite de Oliva Selección",
+      "cantidad": 45,
+      "precio": 9.2
+    },
+    {
+      "nombre": "Leche de Avena",
+      "cantidad": 9,
+      "precio": 2.69
+    },
+    {
+      "nombre": "Mermelada de Melocotón",
+      "cantidad": 41,
+      "precio": 4.79
+    },
+    {
+      "nombre": "Café Molido",
+      "cantidad": 17,
+      "precio": 8.32
+    },
+    {
+      "nombre": "Salsa de Tomate",
+      "cantidad": 93,
+      "precio": 2.41
+    },
+    {
+      "nombre": "Legumbres Lentejas Premium",
+      "cantidad": 42,
+      "precio": 2.28
+    },
+    {
+      "nombre": "Chocolate 70% Suave",
+      "cantidad": 57,
+      "precio": 3.76
+    },
+    {
+      "nombre": "Harina Integral Natural",
+      "cantidad": 83,
+      "precio": 4.3
+    },
+    {
+      "nombre": "Frutos Secos Anacardos",
+      "cantidad": 68,
+      "precio": 8.48
+    }
+  ],
+  "Estantería N": [
+    {
+      "nombre": "Aceite de Oliva Virgen Extra",
+      "cantidad": 49,
+      "precio": 11.91
+    },
+    {
+      "nombre": "Arroz Redondo",
+      "cantidad": 59,
+      "precio": 3.45
+    },
+    {
+      "nombre": "Legumbres Judías Negras",
+      "cantidad": 30,
+      "precio": 4.2
+    },
+    {
+      "nombre": "Café Colombia Extra",
+      "cantidad": 78,
+      "precio": 5.51
+    },
+    {
+      "nombre": "Harina de Avena",
+      "cantidad": 42,
+      "precio": 0.99
+    },
+    {
+      "nombre": "Salsa Picante Intenso",
+      "cantidad": 115,
+      "precio": 3.84
+    },
+    {
+      "nombre": "Chocolate Amargo",
+      "cantidad": 100,
+      "precio": 3.49
+    },
+    {
+      "nombre": "Frutos Secos Pistachos",
+      "cantidad": 34,
+      "precio": 6.64
+    },
+    {
+      "nombre": "Aceitunas Rellenas Clásico",
+      "cantidad": 84,
+      "precio": 1.9
+    },
+    {
+      "nombre": "Té Negro",
+      "cantidad": 120,
+      "precio": 4.32
+    },
+    {
+      "nombre": "Cereales Muesli Selecto",
+      "cantidad": 9,
+      "precio": 4.03
+    },
+    {
+      "nombre": "Mermelada de Melocotón Integral",
+      "cantidad": 46,
+      "precio": 4.09
+    }
+  ],
+  "Estantería O": [
+    {
+      "nombre": "Aceite de Oliva Intenso",
+      "cantidad": 48,
+      "precio": 10.53
+    },
+    {
+      "nombre": "Aceitunas Partidas",
+      "cantidad": 23,
+      "precio": 3.31
+    },
+    {
+      "nombre": "Frutos Secos Nueces",
+      "cantidad": 97,
+      "precio": 7.05
+    },
+    {
+      "nombre": "Galletas María",
+      "cantidad": 107,
+      "precio": 2.67
+    },
+    {
+      "nombre": "Té Verde",
+      "cantidad": 6,
+      "precio": 2.69
+    },
+    {
+      "nombre": "Salsa de Tomate",
+      "cantidad": 91,
+      "precio": 4.07
+    },
+    {
+      "nombre": "Cereales Chocolate",
+      "cantidad": 110,
+      "precio": 4.23
+    },
+    {
+      "nombre": "Café Descafeinado Clásico",
+      "cantidad": 65,
+      "precio": 3.18
+    },
+    {
+      "nombre": "Pasta Penne Intenso",
+      "cantidad": 33,
+      "precio": 2.3
+    },
+    {
+      "nombre": "Mermelada de Naranja",
+      "cantidad": 43,
+      "precio": 3.82
+    },
+    {
+      "nombre": "Harina de Trigo Premium",
+      "cantidad": 43,
+      "precio": 4.78
+    },
+    {
+      "nombre": "Leche Entera Suave",
+      "cantidad": 22,
+      "precio": 2.03
+    }
+  ],
+  "Estantería P": [
+    {
+      "nombre": "Legumbres Garbanzos",
+      "cantidad": 35,
+      "precio": 3.77
+    },
+    {
+      "nombre": "Salsa de Tomate",
+      "cantidad": 52,
+      "precio": 3.31
+    },
+    {
+      "nombre": "Harina de Avena Integral",
+      "cantidad": 29,
+      "precio": 4.68
+    },
+    {
+      "nombre": "Galletas María Clásico",
+      "cantidad": 87,
+      "precio": 2.92
+    },
+    {
+      "nombre": "Pasta Integral Artesano",
+      "cantidad": 36,
+      "precio": 2.98
+    },
+    {
+      "nombre": "Cereales Fibra Suave",
+      "cantidad": 31,
+      "precio": 4.05
+    },
+    {
+      "nombre": "Aceitunas Negras Orgánico",
+      "cantidad": 105,
+      "precio": 3.72
+    },
+    {
+      "nombre": "Leche Entera Orgánico",
+      "cantidad": 21,
+      "precio": 2.47
+    },
+    {
+      "nombre": "Té Negro Premium",
+      "cantidad": 21,
+      "precio": 1.57
+    },
+    {
+      "nombre": "Chocolate Con Leche",
+      "cantidad": 7,
+      "precio": 2.2
+    },
+    {
+      "nombre": "Aceite de Oliva Virgen Extra",
+      "cantidad": 72,
+      "precio": 5.35
+    },
+    {
+      "nombre": "Café Molido",
+      "cantidad": 104,
+      "precio": 5.53
+    },
+    {
+      "nombre": "Mermelada de Frambuesa Suave",
+      "cantidad": 33,
+      "precio": 4.65
+    },
+    {
+      "nombre": "Arroz Basmati",
+      "cantidad": 115,
+      "precio": 3.34
+    },
+    {
+      "nombre": "Frutos Secos Pistachos",
+      "cantidad": 8,
+      "precio": 3.36
+    }
+  ],
+  "Estantería Q": [
+    {
+      "nombre": "Harina de Almendra",
+      "cantidad": 46,
+      "precio": 2.39
+    },
+    {
+      "nombre": "Pasta Penne",
+      "cantidad": 63,
+      "precio": 2.01
+    },
+    {
+      "nombre": "Leche de Avena Natural",
+      "cantidad": 114,
+      "precio": 2.8
+    },
+    {
+      "nombre": "Legumbres Quinoa",
+      "cantidad": 32,
+      "precio": 2.49
+    },
+    {
+      "nombre": "Mermelada de Melocotón",
+      "cantidad": 110,
+      "precio": 3.27
+    },
+    {
+      "nombre": "Arroz Jazmín",
+      "cantidad": 45,
+      "precio": 2.55
+    },
+    {
+      "nombre": "Cereales Chocolate",
+      "cantidad": 24,
+      "precio": 4.4
+    },
+    {
+      "nombre": "Salsa Picante Natural",
+      "cantidad": 16,
+      "precio": 2.9
+    },
+    {
+      "nombre": "Chocolate Blanco",
+      "cantidad": 76,
+      "precio": 1.74
+    },
+    {
+      "nombre": "Aceitunas Gourmet",
+      "cantidad": 90,
+      "precio": 1.54
+    },
+    {
+      "nombre": "Café Descafeinado",
+      "cantidad": 101,
+      "precio": 5.96
+    },
+    {
+      "nombre": "Galletas de Avena",
+      "cantidad": 81,
+      "precio": 1.94
+    },
+    {
+      "nombre": "Frutos Secos Almendras",
+      "cantidad": 32,
+      "precio": 3.93
+    },
+    {
+      "nombre": "Té Chai Natural",
+      "cantidad": 49,
+      "precio": 5.3
+    },
+    {
+      "nombre": "Aceite de Oliva Intenso Integral",
+      "cantidad": 78,
+      "precio": 6.2
+    },
+    {
+      "nombre": "Cereales Miel",
+      "cantidad": 103,
+      "precio": 4.86
+    },
+    {
+      "nombre": "Legumbres Quinoa",
+      "cantidad": 76,
+      "precio": 1.28
+    }
+  ],
+  "Estantería R": [
+    {
+      "nombre": "Chocolate Amargo Suave",
+      "cantidad": 32,
+      "precio": 3.0
+    },
+    {
+      "nombre": "Aceitunas Partidas Artesano",
+      "cantidad": 44,
+      "precio": 3.22
+    },
+    {
+      "nombre": "Café Brasil",
+      "cantidad": 118,
+      "precio": 3.37
+    },
+    {
+      "nombre": "Salsa Pesto",
+      "cantidad": 11,
+      "precio": 3.79
+    },
+    {
+      "nombre": "Frutos Secos Pistachos",
+      "cantidad": 59,
+      "precio": 5.91
+    },
+    {
+      "nombre": "Té Chai",
+      "cantidad": 32,
+      "precio": 4.9
+    },
+    {
+      "nombre": "Cereales Muesli Natural",
+      "cantidad": 41,
+      "precio": 4.37
+    },
+    {
+      "nombre": "Leche de Almendra",
+      "cantidad": 90,
+      "precio": 1.79
+    },
+    {
+      "nombre": "Mermelada de Melocotón",
+      "cantidad": 81,
+      "precio": 2.15
+    },
+    {
+      "nombre": "Pasta Spaghetti Clásico",
+      "cantidad": 103,
+      "precio": 1.27
+    },
+    {
+      "nombre": "Legumbres Alubias Natural",
+      "cantidad": 5,
+      "precio": 2.69
+    },
+    {
+      "nombre": "Aceite de Oliva Ecológico Extra",
+      "cantidad": 73,
+      "precio": 9.78
+    },
+    {
+      "nombre": "Arroz Salvaje",
+      "cantidad": 90,
+      "precio": 3.84
+    },
+    {
+      "nombre": "Harina de Trigo",
+      "cantidad": 99,
+      "precio": 1.06
+    }
+  ]
+}
